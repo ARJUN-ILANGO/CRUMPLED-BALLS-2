@@ -7,7 +7,7 @@ var dust_bin, paper_image;
 var dustbin;
 
 function preload(){
-	dust_bin = loadImage("animation/dustbingreen.png");
+	dust_bin = loadImage("dustbingreen.png");
 }
 
 
